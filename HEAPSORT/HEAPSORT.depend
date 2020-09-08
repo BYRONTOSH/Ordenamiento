@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1599597333 source:c:\users\byrontosh\desktop\30-07-2020\heapsort\main.cpp
+	<iostream>
+	"uno.h"
+	"dos.h"
+	"tres.h"
+
+1599596451 c:\users\byrontosh\desktop\30-07-2020\heapsort\uno.h
+	<iostream>
+
+1599596652 c:\users\byrontosh\desktop\30-07-2020\heapsort\dos.h
+
+1599597373 c:\users\byrontosh\desktop\30-07-2020\heapsort\tres.h
+	<iostream>
+
